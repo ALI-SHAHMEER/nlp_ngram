@@ -1,4 +1,4 @@
-# nlp_ngram
+<center># nlp_ngram</center>
 <ol>
 <li>We will used urdu news data set for prediction for news category. </li>
 <li>We will used n-gram technique for feature extraction with 4 different machine learning algorithms</li>
